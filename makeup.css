@@ -57,7 +57,7 @@ li a:hover {
 /* --- defines the Logo at the bottom of the website --- */
 #logofoot { 
   float: right;
-  margin: 0px 15px 15px 0px;
+  margin: 0px 15px 5px 0px;
   height:80px;
   background-color: #333;
 }
