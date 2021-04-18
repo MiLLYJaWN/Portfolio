@@ -54,4 +54,20 @@ li a:hover {
   background-color: #111;
 }
 
+/* --- defines the Logo at the bottom of the website --- */
+#logofoot { 
+  float:right;
+  height:80px;
+  background-color: #333;
+}
 
+/*  ----------- Footer and Copyright Bar.  -----------   */
+
+/*this defines the main look of the footer*/
+#footerjawn {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height:80px;
+  background-color: #333;
