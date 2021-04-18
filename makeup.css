@@ -17,6 +17,8 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 /* ---- defines the Logo at the top of the website ---- */
 #logohead { 
   float:left;
+  height:80px;
+  background-color: #333;
 }
 
 /*  --------- Full Browser Navigation Bar.  ---------   */
