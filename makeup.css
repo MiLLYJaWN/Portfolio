@@ -66,10 +66,13 @@ li a:hover {
 
 /*this defines the main look of the footer*/
 #footerjawn {
-  text-align: center;
-  margin: 0px 0px 0px 10px;
+  margin: 0px 0px 0px -10px;
   padding: 10px;
   overflow: hidden;
   height:80px;
   color:white;
   background-color: #333;
+  
+  #copyright{
+  text-align: center;
+  margin: 0px 0px 0px 20px;
