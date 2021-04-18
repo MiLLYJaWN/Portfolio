@@ -1,4 +1,4 @@
-/*
+/*  
 Basic Style Sheet for Draft Porfolio Site
 Site URL: https://millyjawndraft.netlify.app/
 Code Source: Github
@@ -6,7 +6,17 @@ Site Source: Netlify
 Owner: Kamilah Hudson aka the OG MiLLYJaWN 
 */
 
-/* defines the background of the website */
+
+/* ----- defines the background of the website   ----   */
 #mainbody {
   background-color: #8b8e8c;
+}
+
+
+/*  --------- Full Browser Navigation Bar.  ---------   */
+
+#navibar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
