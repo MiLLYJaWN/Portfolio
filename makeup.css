@@ -25,6 +25,7 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 
 /*this defines the main look ov the navibar*/
 #navibar {
+  text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
