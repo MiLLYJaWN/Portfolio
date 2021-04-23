@@ -18,7 +18,6 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 #logohead { 
   float:left;
   height:80px;
-  width: 30%;
   background-color: #333;
 }
 
@@ -32,7 +31,6 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
   padding: 0;
   overflow: hidden;
   height:80px;
-  width: 70%;
   background-color: #333;
   position: sticky;
   position: -webkit-sticky; /* Safari */
@@ -77,6 +75,11 @@ li a:hover {
   clear: both;
 }
 
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 
 /* --- defines the Logo at the bottom of the website --- */
 #logofoot { 
@@ -86,6 +89,8 @@ li a:hover {
   background-color: #333;
 }
 
+  
+  
 /*  ----------- Footer and Copyright Bar.  -----------   */
 
 /*this defines the main look of the footer*/
