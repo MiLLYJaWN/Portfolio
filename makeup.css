@@ -61,7 +61,7 @@ li a:hover {
 #introbox {
   box-sizing: border-box;}
 
-.column {
+.introcolumn {
   float: left;
   width: 50%;
   padding: 10px;
