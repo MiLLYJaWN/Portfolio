@@ -54,49 +54,25 @@ li a:hover {
   background-color: #111;
 }
 
-
-
-/* --- Defines the Content Box With Intro to Sections --- */
-
-#introbox {
-  box-sizing: border-box;}
-
-.introcolumn {
-  float: left;
-  width: 32%;
-  padding: 5px;
-  height: 300px; /* Should be removed. Only for demonstration */
+/* --- defines the Logo at the bottom of the website --- */
+#logofoot { 
+  float: right;
+  margin: 0px 10px 0px 0px;
+  height:100px;
+  background-color: #333;
 }
 
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .introcolumn {
-    width: 100%;
-  }
-
-  
-  
 /*  ----------- Footer and Copyright Bar.  -----------   */
 
-/* -- defines the Logo at the bottom of the website ---- */
-#logofoot { 
-  float:right;
-  height:80px;
-  background-color: #333;
-}
-
-/*  -------------- Full Browser footer.  -------------   */
-
-/*this defines the main look ov the navibar*/
-#footerbar {
-  text-align: center;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+/*this defines the main look of the footer*/
+#footerjawn {
+  margin: 0px 0px 0px 0px;
+  padding: 10px;
   overflow: hidden;
   height:80px;
+  color:white;
   background-color: #333;
-  position: fixed;
-  position: -webkit-sticky; /* Safari */
-}
+  
+  #copyright{
+  text-align: center;
+  margin: 0px 0px 0px 20px;
