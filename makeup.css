@@ -81,45 +81,28 @@ li a:hover {
     width: 100%;
   }
 
-/* --- defines the Logo at the bottom of the website --- */
-#logofoot { 
-  float: right;
-  margin: 0px 10px 0px 0px;
-  height:100px;
-  background-color: #333;
-}
-
   
   
 /*  ----------- Footer and Copyright Bar.  -----------   */
 
-/*this defines the main look of the footer*/
-	
-.siteFooterBar {
-	position: fixed;
-	bottom: 0;
-	padding-top: 10px;
-	width: 100%;
-	box-shadow: 0px 0px 25px rgb(207, 207, 207);
-	height: 78px;
-	color: #9B9B9B;
-	background: #F3F3F3;
+/* -- defines the Logo at the bottom of the website ---- */
+#logofoot { 
+  float:right;
+  height:80px;
+  background-color: #333;
 }
 
-.footercontent {
-	display: block;
-	padding: 10px;
-	margin: 0px auto;
-	text-align: center;
-	font: 25px Georgia, "Times New Roman", Times, serif;
-	font-size: 14px;
-    width:250px;
-}
-.foot {
- display:inline;
-    line-height: 70px;
-}
-.footercontentimg {
- height:80px;
-    float:right;
+/*  -------------- Full Browser footer.  -------------   */
+
+/*this defines the main look ov the navibar*/
+#footerbar {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height:80px;
+  background-color: #333;
+  position: fixed;
+  position: -webkit-sticky; /* Safari */
 }
