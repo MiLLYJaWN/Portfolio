@@ -119,8 +119,7 @@ li a:hover {
  display:inline;
     line-height: 70px;
 }
-.footercontent img {
- height:70px;
-    width: 70px;
-    float:left;
+.footercontentimg {
+ height:80px;
+    float:right;
 }
