@@ -58,7 +58,7 @@ li a:hover {
  /* -- Add an active class to highlight the current page -- */
 .active {
   background-color: #808080;
-  color: #808080;
+  color: #000000;
 
 /* Hide the link that should open and close the topnav on small screens */
 .navibar .icon {
