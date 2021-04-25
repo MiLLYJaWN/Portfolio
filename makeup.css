@@ -56,10 +56,14 @@ li a:hover {
 
 /* --- defines the Logo at the bottom of the website --- */
 #logofoot { 
+  position: fixed;
+  bottom: 10px;
   float: right;
-  margin: 0px 10px 0px 0px;
-  height:100px;
-  background-color: #333;
+  right: 18.5%;
+  left: 77.25%;
+  max-width: 30px;
+  height: 100px;
+  border-color: #333;
 }
 
 /*  ----------- Footer and Copyright Bar.  -----------   */
