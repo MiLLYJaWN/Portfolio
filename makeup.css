@@ -59,9 +59,8 @@ li a:hover {
   position: fixed;
   bottom: 10px;
   float: right;
-  right: 18.5%;
+  right: 8.5%;
   left: 77.25%;
-  max-width: 30px;
   height: 100px;
   border-color: #333;
 }
