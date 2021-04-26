@@ -37,11 +37,11 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 }
 
 
-li {
+.naviopt {
   float: left;
 }
 
-li a {
+.naviopt a {
   display: block;
   color: white;
   text-align: center;
@@ -50,7 +50,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.naviopt a:hover {
   height:80px;
   background-color: #111;
 
