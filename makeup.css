@@ -55,11 +55,12 @@ li a:hover {
   background-color: #111;
 
 
- /* -- Add an active class to highlight the current page -- */
-#active {
+  /* Style the active class (and buttons on mouse-over) */
+.active {
   background-color: #808080;
   color: #000000;
 }
+ 
 
 }
 
