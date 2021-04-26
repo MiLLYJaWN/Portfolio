@@ -53,13 +53,15 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 .naviopt a:hover {
   height:80px;
   background-color: #111;
+  color:#808080;
+}
 
 /* Style the buttons */
 .btn {
   border: none;
   outline: none;
   padding: 10px 16px;
-  background-color: #f1f1f1;
+  background-color: #333;
   cursor: pointer;
 }
 
@@ -70,8 +72,6 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
 }
  
 
-}
-
 /* --- defines the Logo at the bottom of the website --- */
 #logofoot { 
   position: fixed;
@@ -80,6 +80,7 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
   height: 100px;
   border-color: #333;
 }
+
 
 
 /*  ----------- Footer and Copyright Bar.  -----------   */
