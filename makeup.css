@@ -56,7 +56,7 @@ li a:hover {
 
 
   /* Style the active class (and buttons on mouse-over) */
-.active {
+#active {
   background-color: #808080;
   color: #000000;
 }
