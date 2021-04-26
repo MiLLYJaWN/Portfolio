@@ -71,6 +71,12 @@ Owner: Kamilah Hudson aka the OG MiLLYJaWN
   color: #000000;
 }
  
+/* DEFINES THE SWIRL IN THE CENTER OF THE HOME PAGE */
+
+.swirlly {
+position: relative;
+  text-align: center;
+}
 
 /* --- defines the Logo at the bottom of the website --- */
 #logofoot { 
