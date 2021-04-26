@@ -56,7 +56,7 @@ li a:hover {
 
 
  /* -- Add an active class to highlight the current page -- */
-.active {
+#active {
   background-color: #808080;
   color: #000000;
 }
