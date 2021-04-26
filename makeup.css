@@ -54,9 +54,17 @@ li a:hover {
   height:80px;
   background-color: #111;
 
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
 
-  /* Style the active class (and buttons on mouse-over) */
-#active {
+/* Style the active class (and buttons on mouse-over) */
+.active, .btn:hover {
   background-color: #808080;
   color: #000000;
 }
